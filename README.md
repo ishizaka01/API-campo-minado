@@ -22,7 +22,7 @@ API REST desenvolvida em Node.js para uma plataforma de apostas baseada no jogo 
 Clone o repositório:
 
 ```bash
-git clone https://github.com/Henrique/api-campo-minado.git
+git clone https://github.com/ishizaka01/api-campo-minado.git
 cd api-campo-minado
 ```
 
